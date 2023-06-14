@@ -1,4 +1,4 @@
-# <img src="icon.png" alt="Extension Icon" width="8%"> Tabs Note Taker Browser Extension
+# <img src="./Icon.png" alt="Extension Icon" width="4%"> Tabs Note Taker Browser Extension
 
 Tabs Note Taker is a browser extension that allows users to store notes about websites they visit directly within their browser. Instead of juggling between different note-taking tools or platforms, users can easily jot down important details about a webpage and save them for future reference.
 
@@ -28,7 +28,7 @@ Tabs Note Taker is a browser extension that allows users to store notes about we
 
 1. Open a webpage in your browser.
 
-2. Click on the "Tabs Note Taker" extension icon &nbsp; <img src="icon.png" alt="Extension Icon" width="8%"> &nbsp; to open the note-taking interface.
+2. Click on the "Tabs Note Taker" extension icon <img src="./Icon.png" alt="Extension Icon" width="2%"> to open the note-taking interface.
 
 3. Enter your notes or important details about the webpage in the provided text input area.
 
