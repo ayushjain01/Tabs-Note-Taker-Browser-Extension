@@ -42,7 +42,7 @@ Tabs Note Taker is a browser extension that allows users to store notes about we
 
 ## 🤝 Support
 
-If you encounter any issues or have suggestions for improvement, please feel free to [open an issue](https://github.com/your-username/tabs-note-taker-extension/issues). Contributions and pull requests are also welcome.
+If you encounter any issues or have suggestions for improvement, please feel free to [open an issue](https://github.com/ayushjain01/Tabs-Note-Taker-Browser-Extension/issues). Contributions and pull requests are also welcome.
 
 ## 📄 License
 
