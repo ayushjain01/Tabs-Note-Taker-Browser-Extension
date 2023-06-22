@@ -2,6 +2,8 @@
 
 Tabs Note Taker is a browser extension that allows users to store notes about websites they visit directly within their browser. Instead of juggling between different note-taking tools or platforms, users can easily jot down important details about a webpage and save them for future reference.
 
+[<img src="https://github.com/ayushjain01/Tabs-Note-Taker-Browser-Extension/assets/67141217/ec0c4e2a-c3cc-46a9-8f63-b7051aa9a767" alt="Chrome Web Store" width="20%">](https://chrome.google.com/webstore/detail/tabs-note-taker/jhfgchafckieigifoiimpcogpgdhimca?utm_source=app-launcher&authuser=0)
+
 <p align = "center" > 
   <img src="https://github.com/ayushjain01/Tabs-Note-Taker-Browser-Extension/assets/67141217/8f45baf4-29a5-4fdf-afc7-30bd3df7a0c7" alt="Frame 1" width="20%">
   <img src="https://github.com/ayushjain01/Tabs-Note-Taker-Browser-Extension/assets/67141217/b3ecf567-689f-47ab-adc1-4c9e82a3aea5" alt="Frame 2" width="20%">
